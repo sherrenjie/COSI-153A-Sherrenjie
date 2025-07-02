@@ -21,7 +21,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 // Import screens
 import BucketListScreen from './screens/BucketListScreen';
-import ActivityDetailsScreen from './screens/ActivityDetailsScreen';
+import ActivityDetailsScreen from './screens/ActivityDetailScreen'
 import MemoriesScreen from './screens/MemoriesScreen';
 import StatsScreen from './screens/StatsScreen';
 import ProfileScreen from './screens/ProfileScreen';
